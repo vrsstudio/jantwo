@@ -9,9 +9,9 @@
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
-	"sum_one": "до 50 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 190 дней",
+	"sum_one": "do 50 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 190 dni",
  
 	"term_to": "160",
    
@@ -46,9 +46,9 @@
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
-	"sum_one": "до 45 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 160 дней",
+	"sum_one": "do 45 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 160 dni",
  
 	"term_to": "160",
    
@@ -81,9 +81,9 @@
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
-	"sum_one": "до 55 000",
-		"sum_min": "до 1 000 руб",
- "days_info": "до 190 дней",
+	"sum_one": "do 55 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 190 dni",
  
 	"term_to": "160",
    

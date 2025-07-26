@@ -4,7 +4,7 @@
  
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/jantwo/refs/heads/main/ekassa.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ekassa.png",
       "name": "Ekassa",
      "rating": 5,
      "age": "18-70",
@@ -41,7 +41,7 @@
 
  {
   
-     "image_url": "https://github.com/vrsstudio/img/blob/ab8b4621af746cd969b0d0a90c73f5775ea0cdb7/pozyckaplus.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pozyckaplus.png",
       "name": "Pozyczkaplus PL",
      "rating": 5,
      "age": "18-73",

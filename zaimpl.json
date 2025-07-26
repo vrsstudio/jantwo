@@ -34,11 +34,6 @@
     
 ,
 
-
-
-
-
-
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pozyckaplus.png",
@@ -67,27 +62,23 @@
 
 
   }
-    
-    
+      
 ,
-
-
-
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/credy.lp.png",
-      "name": "Soscredit",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/smartpozych.png",
+      "name": "Smartpozyczka PL",
      "rating": 5,
-     "age": "18-65",
-    "percent": "2%",
-	"sum_one": "do 5 000",
+     "age": "18-73",
+    "percent": "0.2%",
+	"sum_one": "do 15 000",
 		"sum_min": "do 1 000 zł",
  "days_info": "do 190 dni",
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/credy/",
+     "url": "https://tds.pdl-profit.com/h/1r4n6884e32077444",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Otwarte 24 godziny na dobę",

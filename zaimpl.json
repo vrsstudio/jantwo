@@ -93,18 +93,156 @@
 
 
   }
-    
-    
+	,
 
-
-
-
-
-
-
- 
-   
-   
+ {
   
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/extraportfel.png",
+      "name": "Extraportfel PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.75%",
+	"sum_one": "do 12 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 91 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1r2e6884e3318757b",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,
+
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/oros.png",
+      "name": "Oros PL",
+     "rating": 5,
+     "age": "20-73",
+    "percent": "0.25%",
+	"sum_one": "do 15 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 62 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1q9f6884e33de94f7",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,
+
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/avafin.png",
+      "name": "Avafin PL",
+     "rating": 5,
+     "age": "21-73",
+    "percent": "0.2%",
+	"sum_one": "do 12 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 91 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1r2d6884e333d779c",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,
+
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kredytok.png",
+      "name": "KredytOK PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.2%",
+	"sum_one": "do 10 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 365 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1qr96884e33b48ccf",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,
+
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/netgotovka.png",
+      "name": "Net Gotówka PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.2%",
+	"sum_one": "do 10 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 120 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1qt96884e338b62f7",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+      
   
 ]

@@ -110,65 +110,9 @@
 	"kruglosutochno": true
 
 
-  },
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/oros.png",
-      "name": "Oros PL",
-     "rating": 5,
-     "age": "20-73",
-    "percent": "0.25%",
-	"sum_one": "do 15 000",
-		"sum_min": "do 1 000 zł",
- "days_info": "do 62 dni",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1q9f6884e33de94f7",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Otwarte 24 godziny na dobę",
-        "license": "Certyfikat №2/11/08/15/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Paszport",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kredytok.png",
-      "name": "KredytOK PL",
-     "rating": 5,
-     "age": "18-73",
-    "percent": "0.2%",
-	"sum_one": "do 10 000",
-		"sum_min": "do 1 000 zł",
- "days_info": "do 365 dni",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1qr96884e33b48ccf",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Otwarte 24 godziny na dobę",
-        "license": "Certyfikat №2/11/08/15/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Paszport",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  }     
-  
+  }  
 ]
+
 
 
 

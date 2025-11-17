@@ -29,8 +29,8 @@
   },
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pozyckaplus.png",
-      "name": "Pozyczkaplus PL",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+      "name": "Zaimoo PL",
      "rating": 5,
      "age": "18-73",
     "percent": "0.2%",
@@ -40,7 +40,7 @@
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1r4q6884e31d9d2db",
+     "url": "https://tds.pdl-profit.com/h/1rjs691b0309e0a7b",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Otwarte 24 godziny na dobę",
@@ -239,5 +239,6 @@
       
   
 ]
+
 
 

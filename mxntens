@@ -5,7 +5,7 @@
         "rating": 5,
         "sum_one": "Hasta $750,000 MXN",
         "days_info": "",
-        "percent": "0%",
+        "percent": "1%",
         "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
     } ,
      {
@@ -15,7 +15,7 @@
         "rating": 5,
         "sum_one": "Hasta $80,000 MXN",
         "days_info": "",
-        "percent": "0%",
+        "percent": "2%",
         "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
     },
  {
@@ -25,7 +25,7 @@
         "rating": 5,
         "sum_one": "Hasta $300,000 MXN",
         "days_info": "Decisión automática",
-        "percent": "0%",
+        "percent": "1%",
         "url": "https://www.santander.com.mx/personas/creditos-personales.html"
     }    
 ]

@@ -1,0 +1,37 @@
+
+
+ {
+         "text": "Primera opción recomendada",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
+        "rating": 5,
+        "sum_one": "Hasta $750,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+    } ,
+     {
+       
+    "text": "Aumenta tus probabilidades",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+        "rating": 5,
+        "sum_one": "Hasta $80,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+    },
+ {
+      
+    "text": "Sin aval ni garantías",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+        "rating": 5,
+        "sum_one": "Hasta $300,000 MXN",
+        "days_info": "Decisión automática",
+        "percent": "0%",
+        "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+    }
+     
+       
+    
+    
+    
+]

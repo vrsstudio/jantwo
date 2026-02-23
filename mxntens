@@ -1,5 +1,4 @@
 [
-
  {
          "text": "Primera opción recomendada",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
@@ -28,10 +27,5 @@
         "days_info": "Decisión automática",
         "percent": "0%",
         "url": "https://www.santander.com.mx/personas/creditos-personales.html"
-    }
-     
-       
-    
-    
-    
+    }    
 ]

@@ -1,31 +1,31 @@
 [
  {
-         "text": "Primera opción recomendada",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Banamex.png",
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
         "rating": 5,
-        "sum_one": "Hasta $750,000 MXN",
+        "sum_one": "Hasta 30 000 mxn",
         "days_info": "",
-        "percent": "1%",
-        "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
     } ,
      {
        
-    "text": "Aumenta tus probabilidades",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "text": "Sin comprobante de ingresos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
         "rating": 5,
-        "sum_one": "Hasta $80,000 MXN",
+        "sum_one": "Hasta $12,000 MXN",
         "days_info": "",
-        "percent": "2%",
-        "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
     },
  {
       
-    "text": "Sin aval ni garantías",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "text": "Dinero al instante en tu tarjeta",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
         "rating": 5,
-        "sum_one": "Hasta $300,000 MXN",
+        "sum_one": "Hasta $10,000 MXN",
         "days_info": "Decisión automática",
-        "percent": "1%",
-        "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
     }    
 ]

@@ -27,5 +27,55 @@
         "days_info": "Decisión automática",
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
-    }    
+    },   
+{
+       
+    "text": "Tu préstamo aprobado en minutos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+        "rating": 5,
+        "sum_one": "Hasta $10,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+    },
+{
+       
+    "text": "Proceso seguro y sin comisiones ocultas",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+    },
+{
+       
+    "text": "Crédito rápido sin papeleo",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+    },
+{
+       
+    "text": "Sin revisión en buró de crédito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+        "rating": 5,
+        "sum_one": "Hasta $150,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+    },
+{
+       
+    "text": "Aprobación inmediata en minutos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+    }
 ]

@@ -1,33 +1,33 @@
 [
   {
-	"name": "HaloCredit",
-	"price_info": "От 3% До 500 000 руб",
+	"name": "Binixo",
+	"price_info": "От 1% До 55 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
     "sum": "100 - 50 000",
 	"term": "5 - 100",
-	"percent": "1,05% - 1,87%",
-    "url": "https://tds.pdl-profit.com/h/1qmk691b0305b29e1",
+	"percent": "0,01% - 0,35%",
+    "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "Cashspace",
-	"price_info": "От 5% До 300 000 руб",
+	"name": "Credy",
+	"price_info": "От 5% До 25 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "300 - 20 000",
 	"term": "5 - 100",
-	"percent": "1,10% - 1,75%",
-    "url": "https://tds.pdl-profit.com/h/1qfh691b0307bb0e1",
+	"percent": "0,05% - 0,25%",
+    "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Solcredit",
+	"name": "Finpug",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "100 - 50 000",
 	"term": "5 - 100",
-	"percent": "1,01% - 1,43%",
-    "url": "https://tds.pdl-profit.com/h/1qqu691b03065eeb2",
+	"percent": "0,06% - 0,13%",
+    "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]

@@ -5,7 +5,7 @@
       "name": "Finpug",
      "rating": 5,
      "age": "18-70",
-    "percent": "0.1%",
+    "percent": "0.0%",
 	"sum_one": "do 20 000",
 		"sum_min": "do 1 000 zł",
  "days_info": "do 365 dni",
@@ -14,10 +14,10 @@
    
      "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b",
        "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
         "work_time": "Otwarte 24 godziny na dobę",
         "license": "Certyfikat №2/11/03/27/000326",
-   "scorost": "несколько минут",
+   "scorost": "Kilka minut",
    "dokuments": "Paszport",
    "sposob": "онлайн",
     "nalichnie": true,
@@ -27,14 +27,15 @@
 
 
   },
+	
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiopl.png",
       "name": "Zaimoo PL",
      "rating": 5,
      "age": "18-73",
-    "percent": "0.2%",
-	"sum_one": "do 15 000",
+    "percent": "0.0%",
+	"sum_one": "do 25 000",
 		"sum_min": "do 1 000 zł",
  "days_info": "do 92 dni",
  
@@ -42,10 +43,10 @@
    
      "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20",
        "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
         "work_time": "Otwarte 24 godziny na dobę",
         "license": "Certyfikat №2/11/06/27/000326",
-   "scorost": "несколько минут",
+   "scorost": "Kilka minut",
    "dokuments": "Paszport",
    "sposob": "онлайн",
     "nalichnie": true,
@@ -70,10 +71,10 @@
    
      "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae",
        "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
         "work_time": "Otwarte 24 godziny na dobę",
         "license": "Certyfikat №2/11/08/15/000326",
-   "scorost": "несколько минут",
+   "scorost": "Kilka minut",
    "dokuments": "Paszport",
    "sposob": "онлайн",
     "nalichnie": true,
@@ -89,8 +90,8 @@
       "name": "Binixo PL",
      "rating": 5,
      "age": "18-73",
-    "percent": "0.3%",
-	"sum_one": "do 12 000",
+    "percent": "0.0%",
+	"sum_one": "do 18 000",
 		"sum_min": "do 1 000 zł",
  "days_info": "do 92 dni",
  
@@ -98,10 +99,10 @@
    
      "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48",
        "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
         "work_time": "Otwarte 24 godziny na dobę",
         "license": "Certyfikat №2/11/08/15/000326",
-   "scorost": "несколько минут",
+   "scorost": "Kilka minut",
    "dokuments": "Paszport",
    "sposob": "онлайн",
     "nalichnie": true,
@@ -110,7 +111,64 @@
 	"kruglosutochno": true
 
 
-  }  
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacepl.png",
+      "name": "Creditnice PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.0%",
+	"sum_one": "do 18 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 92 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rtn6a284143975f6",
+       "email": "info@web-zaim.ru",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "Kilka minut",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+      "name": "Binixo PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.0%",
+	"sum_one": "do 18 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 92 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rk16a2842415383b",
+       "email": "info@web-zaim.ru",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "Kilka minut",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	
 ]
 
 

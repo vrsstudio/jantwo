@@ -1,33 +1,24 @@
 [
  {
          "text": "Dinero para cualquier propósito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/F2MX.png",
         "rating": 5,
-        "sum_one": "Hasta 40 000 mxn",
+        "sum_one": "Hasta 70 000 mxn",
         "days_info": "",
         "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+        "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
     } ,
+
 {
       
     "text": "Dinero al instante en tu tarjeta",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/optocreditomx.png",
         "rating": 5,
-        "sum_one": "Hasta $10,000 MXN",
+        "sum_one": "Hasta $60,000 MXN",
         "days_info": "Decisión automática",
         "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+        "url": "https://tds.pdl-profit.com/h/1rqv6a2923757b218"
     },  
-{
-       
-    "text": "Sin revisión en buró de crédito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-        "rating": 5,
-        "sum_one": "Hasta $150,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
-    },
 {
       
     "text": "Solicita sin salir de casa",
@@ -37,38 +28,17 @@
         "days_info": "Decisión automática",
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-    },   
+    }, 
 {
       
     "text": "Más rápido de lo que imaginas",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/F2MX.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
         "rating": 5,
         "sum_one": "Hasta $10,000 MXN",
         "days_info": "Decisión automática",
         "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+        "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
     },   
-     {
-       
-    "text": "Sin comprobante de ingresos",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
-    },
- 
-{
-       
-    "text": "Tu préstamo aprobado en minutos",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
-        "rating": 5,
-        "sum_one": "Hasta $10,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
-    },
 {
        
     "text": "Proceso seguro y sin comisiones ocultas",
@@ -80,6 +50,55 @@
         "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
     },
 {
+      
+    "text": "Dinero al instante en tu tarjeta",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+        "rating": 5,
+        "sum_one": "Hasta $10,000 MXN",
+        "days_info": "Decisión automática",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+    },  
+{
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+        "rating": 5,
+        "sum_one": "Hasta 40 000 mxn",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+    } ,
+{
+       
+    "text": "Sin revisión en buró de crédito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+        "rating": 5,
+        "sum_one": "Hasta $150,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+    },
+     {
+       
+    "text": "Sin comprobante de ingresos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
+    },
+ {
+       
+    "text": "Tu préstamo aprobado en minutos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+        "rating": 5,
+        "sum_one": "Hasta $10,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+    },
+{
        
     "text": "Crédito rápido sin papeleo",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
@@ -89,7 +108,6 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
     },
-
 {
        
     "text": "Aprobación inmediata en minutos",

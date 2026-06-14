@@ -1,0 +1,38 @@
+[
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tasckomvnd.png",
+    "name": "Vay tiền nhanh online",
+    "rating": 5,
+    "age": "Từ 18 tuổi",
+    "sum_one": "Từ 1.000.000 ₫ đến 50.000.000 ₫",
+    "odobrenie": "Tỷ lệ duyệt cao",
+    "url": "https://techcombank.com/khach-hang-ca-nhan/vay/vay-tieu-dung"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Vietcombank.png",
+    "name": "Giải ngân trong ngày",
+    "rating": 5,
+    "age": "Từ 18 tuổi",
+    "sum_one": "Từ 2.000.000 ₫ đến 100.000.000 ₫",
+    "odobrenie": "Tỷ lệ duyệt cao",
+    "url": "https://www.vietcombank.com.vn/vi-VN/KHCN/SPDV/Vay/Vay-tieu-dung-co-tai-san-bao-dam#dataIndex=0"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/MBbank.png",
+    "name": "Đăng ký 100% trực tuyến",
+    "rating": 5,
+    "age": "Từ 18 tuổi",
+    "sum_one": "Từ 1.000.000 ₫ đến 150.000.000 ₫",
+    "odobrenie": "Tỷ lệ duyệt cao",
+    "url": "https://www.mbbank.com.vn/26/41/168/Chi-tiet/vay-tieu-dung-tsdb"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/SACOMBANK.png",
+    "name": "Vay tiêu dùng linh hoạt",
+    "rating": 5,
+    "age": "Từ 18 tuổi",
+    "sum_one": "Từ 5.000.000 ₫ đến 200.000.000 ₫",
+    "odobrenie": "Tỷ lệ duyệt cao",
+    "url": "https://www.sacombank.com.vn/en/personal/loans/consumer-loans/salary-loans.html"
+  }
+]

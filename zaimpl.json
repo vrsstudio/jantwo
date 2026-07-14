@@ -166,6 +166,34 @@
 	"kruglosutochno": true
 
 
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+      "name": "Creditnice PL",
+     "rating": 5,
+     "age": "18-73",
+    "percent": "0.0%",
+	"sum_one": "do 13 000",
+		"sum_min": "do 1 000 zł",
+ "days_info": "do 92 dni",
+ 
+	"term_to": "160",
+   
+     "url": "https://track-pdlp.com/h/1qfe691b0308b0fa8",
+       "email": "info@web-zaim.ru",
+        "address": "ul. Jana Pawła II 15/800-175 Warszawa Polska",
+        "work_time": "Otwarte 24 godziny na dobę",
+        "license": "Certyfikat №2/11/08/15/000326",
+   "scorost": "Kilka minut",
+   "dokuments": "Paszport",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
   }
 	
 	

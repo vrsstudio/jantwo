@@ -4,27 +4,27 @@
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Millennium_BCP.png",
     "sum_one": "od 100 do 3 000 zł",
-    "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=tensons"
+    "url": "https://www.bankmillennium.pl/klienci-indywidualni/pozyczki/pozyczka-konsolidacyjna"
   },
   {
     "name": "Pierwsza pożyczka na korzystnych warunkach",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
-    "sum_one": "od 500 do 10 000 zł",
-    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=tensons"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bank-pekao.png",
+    "sum_one": "od 500 do 150 000 zł",
+    "url": "https://www.pekao.com.pl/klient-indywidualny/pozyczanie-gotowki.html#section-0"
   },
   {
     "name": "Prosto i wygodnie",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
-    "sum_one": "od 500 do 5 000 zł",
-    "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=tensons&erid=2W5zFHHkYTA"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Mbank.png",
+    "sum_one": "od 500 do 100 000 zł",
+    "url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-gotowkowe/kredyt-konsolidacyjny/?kampania=hub_kredyty-gotowkowe"
   },
 
   {
@@ -32,7 +32,7 @@
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymmm.png",
     "sum_one": "od 200 do 5 000 zł",
     "url": "https://pxl.leads.su/click/3db7c0a9ebba03239c71282920ce41e7?aff_sub1=tensons&erid=2W5zFH7Qc5v"
   },
@@ -41,7 +41,7 @@
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zpp.png",
     "sum_one": "od 500 do 10 000 zł",
     "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=tensons"
   }

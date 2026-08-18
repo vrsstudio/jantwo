@@ -1,24 +1,4 @@
 [
- {
-         "text": "Dinero para cualquier propósito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/F2MX.png",
-        "rating": 5,
-        "sum_one": "Hasta 70 000 mxn",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
-    } ,
-
-{
-      
-    "text": "Solicita sin salir de casa",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
-        "rating": 5,
-        "sum_one": "Hasta $20,000 MXN",
-        "days_info": "Decisión automática",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-    }, 
 {
       
     "text": "Más rápido de lo que imaginas",
@@ -29,6 +9,34 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
     },   
+{
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+        "rating": 5,
+        "sum_one": "Hasta 40 000 mxn",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+    } ,
+{
+      
+    "text": "Solicita sin salir de casa",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $20,000 MXN",
+        "days_info": "Decisión automática",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+    }, 
+ {
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+        "rating": 5,
+        "sum_one": "Hasta 70 000 mxn",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://track-pdlp.com/h/1r306891ae80d592a"
+    } ,
 {
        
     "text": "Proceso seguro y sin comisiones ocultas",
@@ -49,15 +57,7 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
     },  
-{
-         "text": "Dinero para cualquier propósito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-        "rating": 5,
-        "sum_one": "Hasta 40 000 mxn",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
-    } ,
+
 {
        
     "text": "Sin revisión en buró de crédito",

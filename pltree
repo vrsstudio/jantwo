@@ -1,40 +1,85 @@
 [
   {
-    "name": "Pierwsza pożyczka bez dodatkowych kosztów",
+    "name": "Pierwsza pożyczka 0%",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Millennium_BCP.png",
-    "sum_one": "od 100 do 250 000 zł",
-    "url": "https://www.bankmillennium.pl/klienci-indywidualni/pozyczki/pozyczka-konsolidacyjna"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+    "sum_one": "od 100 do 80 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1rbl6884e316d339b"
   },
   {
-    "name": "Pierwsza pożyczka na korzystnych warunkach",
+    "name": "Szybka gotówka online",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bank-pekao.png",
-    "sum_one": "od 500 do 150 000 zł",
-    "url": "https://www.pekao.com.pl/klient-indywidualny/pozyczanie-gotowki.html#section-0"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+    "sum_one": "od 50 do 47 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1rk16a2842415383b"
   },
   {
-    "name": "Prosto i wygodnie",
+    "name": "Pożyczki w 5 minut.",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Mbank.png",
-    "sum_one": "od 500 do 100 000 zł",
-    "url": "https://www.mbank.pl/indywidualny/kredyty/kredyty-gotowkowe/kredyt-konsolidacyjny/?kampania=hub_kredyty-gotowkowe"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiopl.png",
+    "sum_one": "od 80 do 50 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20"
   },
 
   {
-    "name": "Wniosek online w 15 minut",
+    "name": "Pożyczka bez wychodzenia z domu",
     "rating": 5,
     "odobrenie": "Wysoka",
     "age": "od 18 lat",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bank_pko.png",
-    "sum_one": "od 200 do 50 000 zł",
-    "url": "https://www.pkobp.pl/klient-indywidualny/kredyty-pozyczki/pozyczka-gotowkowa"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
+    "sum_one": "od 50 do 35 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
+  },
+{
+    "name": "Bez ukrytych warunków",
+    "rating": 5,
+    "odobrenie": "Wysoka",
+    "age": "od 18 lat",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
+    "sum_one": "od 50 do 25 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1rlp691b030a64d48"
+  },
+{
+    "name": "Prosty wniosek online",
+    "rating": 5,
+    "odobrenie": "Wysoka",
+    "age": "od 18 lat",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacepl.png",
+    "sum_one": "od 50 do 55 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1rtn6a284143975f6"
+  },
+{
+    "name": "Szybka gotówka online",
+    "rating": 5,
+    "odobrenie": "Wysoka",
+    "age": "od 18 lat",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+    "sum_one": "od 50 do 28 000 zł",
+    "url": "https://track-pdlp.com/h/1qfe691b0308b0fa8"
+  },
+{
+    "name": "Gotówka bez zbędnych formalności",
+    "rating": 5,
+    "odobrenie": "Wysoka",
+    "age": "od 18 lat",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+    "sum_one": "od 50 do 39 000 zł",
+    "url": "https://track-pdlp.com/h/1qqu691b03065eeb2"
+  },
+{
+    "name": "Pożyczka bez wychodzenia z domu",
+    "rating": 5,
+    "odobrenie": "Wysoka",
+    "age": "od 18 lat",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
+    "sum_one": "od 50 do 35 000 zł",
+    "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
   }
  
 ]

@@ -8,7 +8,35 @@
         "days_info": "Decisión automática",
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
-    },   
+    }, 
+{
+       
+    "text": "Crédito rápido sin papeleo",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+    },
+{
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+        "rating": 5,
+        "sum_one": "Hasta 70 000 mxn",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://track-pdlp.com/h/1r306891ae80d592a"
+    } ,
+{
+         "text": "Dinero para cualquier propósito",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+        "rating": 5,
+        "sum_one": "Hasta 40 000 mxn",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+    } ,
 {
          "text": "Dinero para cualquier propósito",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
@@ -18,6 +46,7 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
     } ,
+
 {
       
     "text": "Solicita sin salir de casa",
@@ -28,25 +57,7 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
     }, 
- {
-         "text": "Dinero para cualquier propósito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-        "rating": 5,
-        "sum_one": "Hasta 70 000 mxn",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://track-pdlp.com/h/1r306891ae80d592a"
-    } ,
-{
-       
-    "text": "Proceso seguro y sin comisiones ocultas",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
-    },
+
 {
       
     "text": "Dinero al instante en tu tarjeta",
@@ -80,16 +91,6 @@
     },
 {
        
-    "text": "Crédito rápido sin papeleo",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-    },
-{
-       
     "text": "Aprobación inmediata en minutos",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
         "rating": 5,
@@ -97,5 +98,15 @@
         "days_info": "",
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+    },
+{
+       
+    "text": "Proceso seguro y sin comisiones ocultas",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
     }
 ]

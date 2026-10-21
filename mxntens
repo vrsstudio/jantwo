@@ -11,16 +11,6 @@
     }, 
 {
        
-    "text": "Tu préstamo aprobado en minutos",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
-    },
-{
-       
     "text": "Sin comprobante de ingresos",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
         "rating": 5,
@@ -28,6 +18,16 @@
         "days_info": "",
         "percent": "0%",
         "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
+    },
+{
+       
+    "text": "Tu préstamo aprobado en minutos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
     },
 {
          "text": "Dinero para cualquier propósito",
@@ -59,6 +59,16 @@
     }, 
 {
        
+    "text": "Crédito rápido sin papeleo",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+    },
+{
+       
     "text": "Proceso seguro y sin comisiones ocultas",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditifymx.png",
         "rating": 5,
@@ -68,23 +78,13 @@
         "url": "https://track-pdlp.com/h/1qrp68860a8932135"
     },
 {
-       
-    "text": "Crédito rápido sin papeleo",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-    },
-{
          "text": "Dinero para cualquier propósito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credymx.png",
         "rating": 5,
         "sum_one": "Hasta 40 000 mxn",
         "days_info": "",
         "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+        "url": "https://track-pdlp.com/h/1q0l6891ae7a41e1b"
     } ,
 {
       
@@ -96,26 +96,15 @@
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
     },  
-
-{
-       
-    "text": "Sin revisión en buró de crédito",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-        "rating": 5,
-        "sum_one": "Hasta $150,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
-    },
      
 {
        
     "text": "Aprobación inmediata en minutos",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
         "rating": 5,
         "sum_one": "Hasta $12,000 MXN",
         "days_info": "",
         "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+        "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
     }
 ]

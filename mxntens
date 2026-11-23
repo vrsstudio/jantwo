@@ -10,6 +10,26 @@
         "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
     }, 
 {
+      
+    "text": "Solicita sin salir de casa",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
+        "rating": 5,
+        "sum_one": "Hasta $20,000 MXN",
+        "days_info": "Decisión automática",
+        "percent": "0%",
+        "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+    }, 
+{
+       
+    "text": "Aprobación inmediata en minutos",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
+        "rating": 5,
+        "sum_one": "Hasta $12,000 MXN",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
+    },
+{
        
     "text": "Sin comprobante de ingresos",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
@@ -48,16 +68,6 @@
         "url": "https://track-pdlp.com/h/1r306891ae80d592a"
     } ,
 {
-      
-    "text": "Solicita sin salir de casa",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
-        "rating": 5,
-        "sum_one": "Hasta $20,000 MXN",
-        "days_info": "Decisión automática",
-        "percent": "0%",
-        "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-    }, 
-{
        
     "text": "Crédito rápido sin papeleo",
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
@@ -70,12 +80,12 @@
 {
        
     "text": "Proceso seguro y sin comisiones ocultas",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditifymx.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
         "rating": 5,
         "sum_one": "Hasta $12,000 MXN",
         "days_info": "",
         "percent": "0%",
-        "url": "https://track-pdlp.com/h/1qrp68860a8932135"
+        "url": "https://track-pdlp.com/h/1rek68860968c840c"
     },
 {
       
@@ -86,16 +96,7 @@
         "days_info": "Decisión automática",
         "percent": "0%",
         "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
-    },  
-     
-{
-       
-    "text": "Aprobación inmediata en minutos",
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-        "rating": 5,
-        "sum_one": "Hasta $12,000 MXN",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
     }
+     
+
 ]
